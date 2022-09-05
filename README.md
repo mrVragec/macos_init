@@ -12,3 +12,6 @@ Details what and how to install on the MacOs
 - Clockify - https://clockify.me/ - https://ticktick.com/static/getApp/download?type=mac
 - TickTick - https://ticktick.com/about/download - https://clockify.me/downloads/ClockifyDesktop.zip
 - itsycal - https://www.mowglii.com/itsycal/
+- 1Password - https://1password.com/downloads/mac/
+- Brave Browser - https://brave.com/download/
+- Visual Studio Code - https://code.visualstudio.com/download
