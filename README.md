@@ -15,3 +15,5 @@ Details what and how to install on the MacOs
 - 1Password - https://1password.com/downloads/mac/
 - Brave Browser - https://brave.com/download/
 - Visual Studio Code - https://code.visualstudio.com/download
+- gr - http://mixu.net/gr/ - https://github.com/mixu/gr
+- trailer - https://ptsochantaris.github.io/trailer/
