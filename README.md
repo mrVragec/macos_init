@@ -17,3 +17,4 @@ Details what and how to install on the MacOs
 - Visual Studio Code - https://code.visualstudio.com/download
 - gr - http://mixu.net/gr/ - https://github.com/mixu/gr
 - trailer - https://ptsochantaris.github.io/trailer/
+- DBeaver - https://dbeaver.io/download/
