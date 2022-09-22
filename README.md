@@ -19,3 +19,8 @@ Details what and how to install on the MacOs
 - trailer - https://ptsochantaris.github.io/trailer/
 - DBeaver - https://dbeaver.io/download/
 - Rectangle - https://github.com/rxhanson/Rectangle
+
+
+## Good to Know
+### DevOps
+- https://github.com/coroot/coroot
