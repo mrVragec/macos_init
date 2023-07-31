@@ -1,4 +1,4 @@
-# macos_init
+guidde.com# macos_init
 Details what and how to install on the MacOs
 
 
@@ -55,7 +55,7 @@ brew install zsh-you-should-use
 - trailer - https://ptsochantaris.github.io/trailer/
 - DBeaver - https://dbeaver.io/download/
 - Rectangle - https://github.com/rxhanson/Rectangle
-
+- Guidde - https://www.guidde.com
 
 ## Good to Know
 ### DevOps
