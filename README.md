@@ -1,9 +1,7 @@
-guidde.com# macos_init
+# macos_init
 Details what and how to install on the MacOs
 
-
-## What to install
-### OhMyZsh
+## OhMyZsh
 https://ohmyz.sh/#install
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -39,14 +37,15 @@ brew install zsh-you-should-use
 ```
 
 ### OhMyZsh Themes
-- - https://github.com/halfo/lambda-mod-zsh-theme
-- - https://github.com/gantoreno/saturn-prompt
-- - https://github.com/MrYazdan/zsh-linear-theme
-- - https://github.com/Saleh7/igeek-zsh-theme
-- 
-- pls - https://dhruvkb.github.io/pls/get_started/installation.html
-- Clockify - https://clockify.me/ - https://ticktick.com/static/getApp/download?type=mac
-- TickTick - https://ticktick.com/about/download - https://clockify.me/downloads/ClockifyDesktop.zip
+- https://github.com/halfo/lambda-mod-zsh-theme
+- https://github.com/gantoreno/saturn-prompt
+- https://github.com/MrYazdan/zsh-linear-theme
+- https://github.com/Saleh7/igeek-zsh-theme
+
+## Good to have Apps
+- pls - https://dhruvkb.github.io/pls
+- Clockify - https://clockify.me/ - https://clockify.me/downloads/ClockifyDesktop.zip
+- TickTick - https://ticktick.com/about/download - https://ticktick.com/static/getApp/download?type=mac
 - itsycal - https://www.mowglii.com/itsycal/
 - 1Password - https://1password.com/downloads/mac/
 - Brave Browser - https://brave.com/download/
