@@ -37,6 +37,8 @@ brew install zsh-you-should-use
 ```
 
 ### OhMyZsh Themes
+- https://github.com/Powerlevel9k/powerlevel9k
+- https://github.com/zthxxx/jovial
 - https://github.com/halfo/lambda-mod-zsh-theme
 - https://github.com/gantoreno/saturn-prompt
   ```
