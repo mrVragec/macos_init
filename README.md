@@ -39,8 +39,17 @@ brew install zsh-you-should-use
 ### OhMyZsh Themes
 - https://github.com/halfo/lambda-mod-zsh-theme
 - https://github.com/gantoreno/saturn-prompt
+  ```
+  curl -fsSL https://raw.githubusercontent.com/gantoreno/saturn-prompt/master/scripts/install.sh | zsh
+  ```
 - https://github.com/MrYazdan/zsh-linear-theme
+  ```
+  curl -o ~/.oh-my-zsh/themes/linear.zsh-theme https://raw.githubusercontent.com/MrYazdan/zsh-linear-theme/main/linear.zsh-theme
+  ```
 - https://github.com/Saleh7/igeek-zsh-theme
+  ```
+  curl -o ~/.oh-my-zsh/themes/igeek.zsh-theme https://raw.githubusercontent.com/Saleh7/igeek-zsh-theme/master/igeek.zsh-theme
+  ```
 
 ## Good to have Apps
 - pls - https://dhruvkb.github.io/pls
