@@ -13,7 +13,9 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://github.com/MichaelAquilina/zsh-you-should-use.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/you-should-use
 git clone https://github.com/olivierverdier/zsh-git-prompt.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-git-prompt
-
+git clone https://github.com/agpenton/1password-zsh-plugin.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/1password-zsh-plugin
+git clone https://github.com/ascii-soup/zsh-url-highlighter.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-url-highlighter
+git clone https://github.com/AndrewHaluza/zsh-update-plugin.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/update-plugin
 ```
 
 #### zsh-autosuggestions
