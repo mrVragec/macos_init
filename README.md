@@ -72,7 +72,11 @@ brew install zsh-you-should-use
 - DBeaver - https://dbeaver.io/download/
 - Rectangle - https://github.com/rxhanson/Rectangle
 - Guidde - https://www.guidde.com
+- Yippy - https://yippy.mattdavo.com/
 
 ## Good to Know
 ### DevOps
 - https://github.com/coroot/coroot
+
+## Maven
+- https://blog.frankel.ch/faster-maven-builds/1/
