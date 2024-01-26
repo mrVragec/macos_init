@@ -68,6 +68,10 @@ brew install zsh-you-should-use
 - Brave Browser - https://brave.com/download/
 - Visual Studio Code - https://code.visualstudio.com/download
 - gr - http://mixu.net/gr/ - https://github.com/mixu/gr
+  ```
+  gr @work bash -c  "git checkout master ; git checkout main"
+  ```
+  
 - trailer - https://ptsochantaris.github.io/trailer/
 - DBeaver - https://dbeaver.io/download/
 - Rectangle - https://github.com/rxhanson/Rectangle
